@@ -1,0 +1,5 @@
+/*change navbar's default border radius and bottom margin*/
+.navbar {
+    border-radius: 0px;
+    margin: 0;
+}
